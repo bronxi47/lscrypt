@@ -4,7 +4,7 @@
 
 How to work  
 
-    ./lscrytp <CRYPTO>
+    ./lscrypt <CRYPTO>
   
 For example:  
 
