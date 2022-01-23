@@ -12,7 +12,7 @@ For example:
 
 comming soon on lscrypt:  
   -Cryptocurrency top ten  
-  -Calculate cryptocurrency amount when you give a USD amoun
+  -Calculate cryptocurrency amount when you give a USD amount
 
 Only for GNU/Linux
 
