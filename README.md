@@ -4,7 +4,7 @@
 
 How to work  
 
-    ./lscrytp <CRYPTO>
+    ./lscrypt <CRYPTO>
   
 For example:  
 
@@ -12,4 +12,15 @@ For example:
 
 comming soon on lscrypt:  
   -Cryptocurrency top ten  
-  -Calculate cryptocurrency amount when you give a USD amoun
+  -Calculate cryptocurrency amount when you give a USD amount
+
+Only for GNU/Linux
+
+Download the binary --> [lscrypt](https://github.com/bronxi47/lscrypt/raw/main/target/release/lscrypt)
+
+How to run
+
+    chmod +x lscrypt
+
+    lscrypt btc
+    
